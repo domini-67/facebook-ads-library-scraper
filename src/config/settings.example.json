@@ -1,0 +1,11 @@
+{
+  "search_terms": ["salon"],
+  "countries": ["PK"],
+  "max_items": 25,
+  "output_path": "data/output.sample.json",
+  "offline_input_path": "data/input.sample.json",
+  "download_media": false,
+  "media_download_dir": "data/media",
+  "live_mode": false,
+  "api_url": ""
+}
