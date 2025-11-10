@@ -1,0 +1,24 @@
+[
+  {
+    "ad_archive_id": "3804712299743449",
+    "page_id": "571062419989773",
+    "page_name": "Debonair Men's Salon",
+    "publisher_platform": ["FACEBOOK", "INSTAGRAM"],
+    "snapshot": {
+      "body": {
+        "text": "Time is money, and we’re saving you both! Seize the day with a grand discount on all services..."
+      },
+      "cta_text": "Send WhatsApp message",
+      "images": [
+        {
+          "original_image_url": "https://scontent-ams4-1.xx.fbcdn.net/v/t39.35426-6/464806700_514824171533348.jpg"
+        }
+      ]
+    },
+    "page_profile_uri": "https://www.facebook.com/debonairmensalon/",
+    "page_like_count": 87467,
+    "start_date": 1730271600,
+    "end_date": 1730271600,
+    "categories": ["UNKNOWN"]
+  }
+]
